@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingSchorschi
 - 👀 I’m interested in webdeveloping and game development
 - 🌱 I’m currently learning Java and C#
-- 💞️ I’m collaborate with FunMic_33 and BluxerMaster
+- 💞️ I’m collaborate with Devs in Dynaside Studios
 - 📫 You can reach me on Discord [KingSchorschi.xyz#0164]
 
 <!---
